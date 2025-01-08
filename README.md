@@ -16,12 +16,21 @@ Source: Kaggle -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # EDA Questions:
 ● How many rows and columns are in the dataset?
+
 ● What are the column names and their data types?
+
 ● Are there any missing or null values in the dataset?
+
 ● How many transactions are fraudulent, and how many are legitimate?
+
 ● What percentage of transactions are fraudulent?
+
 ● What are the minimum, maximum, mean, and median values for numerical columns like Amount?
+
 ● What is the maximum transaction amount in the dataset, and is it fraudulent?
+
 ● Can we create a bar chart showing the count of fraudulent vs legitimate transactions?
+
 ● What does the histogram of transaction amounts look like?
+
 ● Can we use a heatmap to visualize the correlation between numerical features?
